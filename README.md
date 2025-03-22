@@ -3,7 +3,8 @@
 
 🎯 **Analista de Produtos Júnior | Aspirante a Desenvolvedor de Software**  
 🚀 Interessado em **Inteligência Artificial, Aplicativos Mobile, Jogos Digitais e Otimização de Algoritmos**  
-💻 Atualmente explorando **Computação em Nuvem e Arquitetura de Software**  
+📖 Atualmente estudando **Engenharia de Software**  
+💻 Explorando **Computação em Nuvem e Arquitetura de Software**  
 
 ## 🚀 Tecnologias e Ferramentas  
 📌 **Linguagens:** ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
