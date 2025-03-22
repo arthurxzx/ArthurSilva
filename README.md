@@ -15,6 +15,9 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=arthurxzx&show_icons=true&theme=dark)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arthurxzx&layout=compact&theme=dark)  
 
+## 📂 Meus Repositórios  
+🔗 Confira meus projetos no [meu GitHub](https://github.com/arthurxzx?tab=repositories)  
+
 ## 📫 Contato  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arthur-silva-240a75a7/)  
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arthurgomessilva@outlook.com)  
